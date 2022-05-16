@@ -3,5 +3,5 @@ Useful docker-compose templates for RHPAM, Kafka etc for local development purpo
 
 ## References
 
-https://github.com/jboss-dockerfiles/business-central
-https://docs.docker.com/compose/environment-variables/
+* https://github.com/jboss-dockerfiles/business-central
+* https://docs.docker.com/compose/environment-variables/
